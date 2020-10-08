@@ -1,0 +1,9 @@
+item {
+    id: 1
+    name: 'building'
+}
+
+item {
+    id: 2
+    name: 'measurement'
+}
